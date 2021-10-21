@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Debysampaio/teste-ebac-ui/issues"
   },
-  "homepage": "https://github.com/Debysampaio/teste-ebac-ui#readme"
+  "homepage": "https://github.com/Debysampaio/teste-ebac-ui#readme",
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
 }
